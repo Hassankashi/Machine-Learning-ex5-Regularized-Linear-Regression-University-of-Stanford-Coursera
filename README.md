@@ -1,1 +1,1 @@
-# Machine-Learning-ex5-Support-Vector-Machine-University-of-Stanford-Coursera
+# Machine-Learning-ex5-Regularized-Linear-Regression-University-of-Stanford-Coursera
